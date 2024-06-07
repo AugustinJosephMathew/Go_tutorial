@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fiber-mongo-api/configs" //add this
+	"fiber-mongo-api/configs"
 	"fiber-mongo-api/routes"
 
 	"github.com/gofiber/fiber/v2"
